@@ -8,6 +8,8 @@ Slides, posters, notebooks and material from PyData San Luis 2017 Conference. Ch
 
 * [Python y Machine Learning: Casos de éxito](https://goo.gl/3mcGZR)
 
+* [El ecosistema de Jupyter y su interrelación con el ecosistema de Anaconda](https://github.com/damianavila/pydatasanluis2017_talk/blob/master/talk.ipynb)
+
 ## Tutorials
 * Tutorial: Train and visualize a model with Tensorflow
     * [Website](http://crscardellino.me/pydata-tutorial/): 
