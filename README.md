@@ -11,6 +11,7 @@ Slides, posters, notebooks and material from PyData San Luis 2017 Conference. Ch
 * [El ecosistema de Jupyter y su interrelación con el ecosistema de Anaconda](https://github.com/damianavila/pydatasanluis2017_talk/blob/master/talk.ipynb)
 
 ## Tutorials
-* Tutorial: Train and visualize a model with Tensorflow
+* **Train and visualize a model with Tensorflow**
     * [Website](http://crscardellino.me/pydata-tutorial/): 
     * [Github Repo](https://github.com/PLN-FaMAF/tensorflowTutorial2017): 
+* **[Having Fun with Recurrent Neural Networks (RNNs)](https://github.com/sergioburdisso/recurrently-happy-rnn)**
